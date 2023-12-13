@@ -1,8 +1,8 @@
-# <README File Generator>
+# SVG Logo Generator
 
 ## Description
 
-A node.js program that generates a professional README file based on input given by the user.
+A Node.js program that generates an SVG vector graphic logo based on input given by the user.
 
 ## Installation
 
@@ -10,11 +10,11 @@ N/A
 
 ## Usage
 
-Enter node index.js into your terminal from within the project's directory. Then enter your project's information according to the series of prompts. The README file will be created after all of the prompts have been answered.
+Enter node index.js into your terminal from within the project's directory. You will then be given a series of prompts related to the logo you want to create. After answering the prompts, an SVG file will be generated for you to view.
 
 ## Credits
 
-Starter code provided by Michigan State University
+N/A
 
 ## License
 
