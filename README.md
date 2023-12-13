@@ -2,7 +2,7 @@
 
 ## Description
 
-A Node.js program that generates an SVG vector graphic logo based on input given by the user.
+A Node.js program that generates an SVG company logo based on input given by the user.
 
 ## Installation
 
