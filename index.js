@@ -42,10 +42,10 @@ inquirer
       shapeData = `<circle cx="150" cy="100" r="80" fill="${answers.shapeColor}" />`;
     }
     else if (answers.shape === 'Triangle') {
-      shapeData = `<polygon points="200,10 250,190 160,210" fill="${answers.shapeColor}" />`;
+      shapeData = `<polygon points="50,200 250,200 150,0" fill="${answers.shapeColor}" />`;
     }
     else {
-      shapeData = `<rect cx="150" cy="100" width="100" height="100" fill="${answers.shapeColor}" />`;
+      shapeData = `<rect x="75" y="25" width="150" height="150" fill="${answers.shapeColor}" />`;
     }
 
     const logoContent = generateSVG(answers, shapeData);
